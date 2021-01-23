@@ -23,7 +23,7 @@ module.exports = withBundleAnalyzer({
       'www.gravatar.com',
       'github.githubassets.com',
       'www.crio.do',
-      'definet.dev'
+      'definet.dev',
     ],
   },
   reactStrictMode: true,
