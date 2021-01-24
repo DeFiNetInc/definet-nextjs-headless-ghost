@@ -24,6 +24,7 @@ module.exports = withBundleAnalyzer({
       'github.githubassets.com',
       'www.crio.do',
       'blog.definet.dev',
+      'definet.dev',
     ],
   },
   reactStrictMode: true,
